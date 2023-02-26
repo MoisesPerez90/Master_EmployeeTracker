@@ -38,7 +38,8 @@ The design of the database schema is shown in the following image:
 ![image](https://user-images.githubusercontent.com/118077086/221436506-26ef765d-c880-40b5-b7c4-3f7f14e4e51e.png)
 
 An example of the behavior of the app would be presented in the following video link and the next images:
-https://drive.google.com/file/d/1BZ0XdAuXV8BVvn-FjEckM44pctdZT-wU/view?usp=sharing
+[Untitled_ Feb 26, 2023 2_44 PM.webm](https://user-images.githubusercontent.com/118077086/221436878-21a8a6b0-d4ce-4a22-b9eb-9f13c5ab065f.webm)
+
 
 ![image](https://user-images.githubusercontent.com/118077086/221436605-217ee08c-256e-4dee-987c-a27ee0726f85.png)
 ![image](https://user-images.githubusercontent.com/118077086/221436620-018528c2-8f00-43c7-889a-b1beedbafb86.png)
